@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">ChatSockets</string>
+    <string name="boton_enviar">Enviar</string>
+</resources>
